@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "edit Post",
+      "body": "quia et suscipit\n"
+    },
+    {
+      "id": 3,
+      "title": " Post",
+      "body": "et iusto "
+    },
+    {
+      "id": 5,
+      "title": "coffee",
+      "body": "this is the test post"
+    },
+    {
+      "id": 6,
+      "title": "new post",
+      "body": "this is the new post"
+    },
+    {
+      "id": 7,
+      "title": "My fourth post",
+      "body": "plip plip roast"
+    }
+  ]
+}
